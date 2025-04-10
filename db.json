@@ -28,7 +28,17 @@
       "createdAt": "2024-04-03T08:30:00Z",
       "modifiedAt": "2024-04-03T09:00:00Z",
       "tags": ["học tập", "figma"],
-      "color": "#0000FF"
+      "color": "#9900FF"
+    },
+     {
+      "id": 4,
+      "title": "Đi Chợ",
+      "content": "Mua Thịt và Rau.",
+      "priority": 1,
+      "createdAt": "2024-04-03T08:30:00Z",
+      "modifiedAt": "2024-04-03T09:00:00Z",
+      "tags": ["đi chợ", "thịt"],
+      "color": "#00EE00"
     }
   ]
 }
