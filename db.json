@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Học Flutter",
+      "content": "Xem lại phần Provider và xử lý API.",
+      "priority": 3,
+      "createdAt": "2024-04-01T10:00:00Z",
+      "modifiedAt": "2024-04-02T12:00:00Z",
+      "tags": ["học tập", "flutter"],
+      "color": "#2196F3"
+    },
+   {
+      "id": 2,
+      "title": "Học Tiếng Anh",
+      "content": "Học Tiếng Anh tại Duolingo trong vòng 60 phút.",
+      "priority": 2,
+      "createdAt": "2024-04-03T08:30:00Z",
+      "modifiedAt": "2024-04-03T09:00:00Z",
+      "tags": ["học tập", "English"],
+      "color": "#0000FF"
+    },
+    {
+      "id": 3,
+      "title": "Học Figma",
+      "content": "Học thiết kế giao diện tại Figma.",
+      "priority": 3,
+      "createdAt": "2024-04-03T08:30:00Z",
+      "modifiedAt": "2024-04-03T09:00:00Z",
+      "tags": ["học tập", "figma"],
+      "color": "#0000FF"
+    }
+  ]
+}
